@@ -65,7 +65,8 @@ Follow these steps to run the game locally:
 
 ## 📸 Screenshots
 
-![Pong Game]
+![Pong Game](https://github.com/user-attachments/assets/bae30489-f6ff-4a9c-84c2-2ab05de0adfa)
+
 
 ---
 
