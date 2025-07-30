@@ -75,3 +75,8 @@ Follow these steps to run the game locally:
 * Inspired by the classic Pong arcade game (1972).
 * Game logic and collision approach based on physics and math functions (`Math.sin`, `Math.PI`).
 * HTML5 Canvas API for real-time rendering.
+
+---
+## Author 💻
+Made with love by [Harsha Verma](https://github.com/vermaharsha)
+
